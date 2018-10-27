@@ -1,0 +1,415 @@
+Aktywny (0/1); Nazwa; Kategoria nadrzędna; Kategoria główna; Przypisany URL; URL zdjęcia
+1;Artykuły biurowe;Strona główna;0;artykuly_biurowe;
+1;Artykuły papiernicze;Strona główna;0;artykuly_papiernicze;
+1;Artykuły piśmiennicze;Strona główna;0;artykuly_pismiennicze;
+1;Artykuły szkolne;Strona główna;0;artykuly_szkolne;
+1;Artykuły spożywcze;Strona główna;0;artykuly_spozywcze;
+1;Akcesoria komputerowe;Strona główna;0;akcesoria_komputerowe;
+1;Organizacja dokumentów;Strona główna;0;organizacja_dokumentow;
+1;Pakowanie i wysyłka;Strona główna;0;pakowanie_i_wysylka;
+1;Tablice i flipcharty;Strona główna;0;tablice_i_flipcharty;
+1;Chemia gospodarcza;Strona główna;0;chemia_gospodarcza;
+1;Tusze i tonery;Strona główna;0;tusze_i_tonery;
+1;Urządzenia biurowe;Strona główna;0;urzadzenia_biurowe;
+1;Dla dzieci;Strona główna;0;dla_dzieci;
+1;Ergonomia w biurze;Strona główna;0;ergonomia_w_biurze;
+1;Dziurkacze i zszywacze;Artykuły biurowe; 0;dziurkacze_i_zszywacze; C:/xampp/htdocs/crawler/img/dziurkacze_i_zszywacze.jpg
+1;Dziurkacze;Dziurkacze i zszywacze; 0;dziurkacze;
+1;Rozszywacze;Dziurkacze i zszywacze; 0;rozszywacze;
+1;Zszywacze;Dziurkacze i zszywacze; 0;zszywacze;
+1;Zszywki;Dziurkacze i zszywacze; 0;zszywki;
+1;Karteczki i kostki;Artykuły biurowe; 0;karteczki_i_kostki; C:/xampp/htdocs/crawler/img/karteczki_i_kostki.jpg
+1;Karteczki samoprzylepne;Karteczki i kostki; 0;karteczki_samoprzylepne;
+1;Kostki papierowe;Karteczki i kostki; 0;kostki_papierowe;
+1;Kleje;Artykuły biurowe; 0;kleje; C:/xampp/htdocs/crawler/img/kleje.jpg
+1;Kleje w płynie;Kleje; 0;kleje_w_plynie;
+1;Kleje w sztyfcie;Kleje; 0;kleje_w_sztyfcie;
+1;Kleje w taśmie;Kleje; 0;kleje_w_tasmie;
+1;Masy mocujące;Kleje; 0;masy_mocujace;
+1;Klipsy i spinacze;Artykuły biurowe; 0;klipsy_i_spinacze; C:/xampp/htdocs/crawler/img/klipsy_i_spinacze.jpg
+1;Klipsy biurowe;Klipsy i spinacze; 0;klipsy_biurowe;
+1;Spinacze biurowe;Klipsy i spinacze; 0;spinacze_biurowe;
+1;Nożyczki i noże;Artykuły biurowe; 0;nozyczki_i_noze; C:/xampp/htdocs/crawler/img/nozyczki_i_noze.jpg
+1;Noże do papieru;Nożyczki i noże; 0;noze_do_papieru;
+1;Nożyczki biurowe;Nożyczki i noże; 0;nozyczki_biurowe;
+1;Pieczątki i akcesoria;Artykuły biurowe; 0;pieczatki_i_akcesoria; C:/xampp/htdocs/crawler/img/pieczatki_i_akcesoria.jpg
+1;Datowniki;Pieczątki i akcesoria; 0;datowniki;
+1;Numeratory;Pieczątki i akcesoria; 0;numeratory;
+1;Pieczątki;Pieczątki i akcesoria; 0;pieczatki;
+1;Poduszki do pieczątek;Pieczątki i akcesoria; 0;poduszki_do_pieczatek;
+1;Tusze do stempli;Pieczątki i akcesoria; 0;tusze_do_stempli;
+1;Przyborniki i podkładki;Artykuły biurowe; 0;przyborniki_i_podkladki; C:/xampp/htdocs/crawler/img/przyborniki_i_podkladki.jpg
+1;Podkładki na biurko;Przyborniki i podkładki; 0;podkladki_na_biurko;
+1;Przyborniki na biurko;Przyborniki i podkładki; 0;przyborniki_na_biurko;
+1;Skorowidze i wizytowniki;Artykuły biurowe; 0;skorowidze_i_wizytowniki; C:/xampp/htdocs/crawler/img/skorowidze_i_wizytowniki.jpg
+1;Skorowidze;Skorowidze i wizytowniki; 0;skorowidze;
+1;Wizytowniki i akcesoria;Skorowidze i wizytowniki; 0;wizytowniki_i_akcesoria;
+1;Taśmy klejące;Artykuły biurowe; 0;tasmy_klejace; C:/xampp/htdocs/crawler/img/tasmy_klejace.jpg
+1;Podajniki do taśm;Taśmy klejące; 0;podajniki_do_tasm;
+1;Taśmy biurowe;Taśmy klejące; 0;tasmy_biurowe;
+1;Taśmy dwustronne;Taśmy klejące; 0;tasmy_dwustronne;
+1;Wyposażenie biura;Artykuły biurowe; 0;wyposazenie_biura; C:/xampp/htdocs/crawler/img/wyposazenie_biura.jpg
+1;Apteczki;Wyposażenie biura; 0;apteczki;
+1;Fotele i krzesła biurowe;Wyposażenie biura; 0;fotele_i_krzesla_biurowe;
+1;Kosze na śmieci;Wyposażenie biura; 0;kosze_na_smieci;
+1;Kubki i akcesoria;Wyposażenie biura; 0;kubki_i_akcesoria;
+1;Lampki na biurko;Wyposażenie biura; 0;lampki_na_biurko;
+1;Maty pod krzesło;Wyposażenie biura; 0;maty_pod_krzeslo;
+1;Podnóżki;Wyposażenie biura; 0;podnozki;
+1;Podpórki pod plecy;Wyposażenie biura; 0;podporki_pod_plecy;
+1;Sejfy i kasetki na pieniądze;Wyposażenie biura; 0;sejfy_i_kasetki_na_pieniadze;
+1;Szafki na klucze;Wyposażenie biura; 0;szafki_na_klucze;
+1;Taborety biurowe;Wyposażenie biura; 0;taborety_biurowe;
+1;Wieszaki, garderoby;Wyposażenie biura; 0;wieszaki_garderoby;
+1;Pozostałe;Artykuły biurowe; 0;pozostale; C:/xampp/htdocs/crawler/img/pozostale.jpg
+1;Gumki recepturki;Pozostałe; 0;gumki_recepturki;
+1;Maczałki i zwilżacze;Pozostałe; 0;maczalki_i_zwilzacze;
+1;Bruliony, notatniki i zeszyty;Artykuły papiernicze; 0;bruliony_notatniki_i_zeszyty; C:/xampp/htdocs/crawler/img/bruliony_notatniki_i_zeszyty.jpg
+1;Bloki biurowe;Bruliony, notatniki i zeszyty; 0;bloki_biurowe;
+1;Bruliony i kołobruliony;Bruliony, notatniki i zeszyty; 0;bruliony_i_kolobruliony;
+1;Notatniki i kołonotatniki;Bruliony, notatniki i zeszyty; 0;notatniki_i_kolonotatniki;
+1;Zeszyty i kołozeszyty;Bruliony, notatniki i zeszyty; 0;zeszyty_i_kolozeszyty;
+1;Druki akcydensowe;Artykuły papiernicze; 0;druki_akcydensowe; C:/xampp/htdocs/crawler/img/druki_akcydensowe.jpg
+1;Akcesoria podatnika;Druki akcydensowe; 0;akcesoria_podatnika;
+1;Druki kadrowe;Druki akcydensowe; 0;druki_kadrowe;
+1;Druki kasowe i księgowe;Druki akcydensowe; 0;druki_kasowe_i_ksiegowe;
+1;Druki szkolne i biblioteczne;Druki akcydensowe; 0;druki_szkolne_i_biblioteczne;
+1;Faktury VAT i inne;Druki akcydensowe; 0;faktury_vat_i_inne;
+1;Formularze do nadruku;Druki akcydensowe; 0;formularze_do_nadruku;
+1;Obrót towarowy i magazynowy ;Druki akcydensowe; 0;obrot_towarowy_i_magazynowy_;
+1;Rachunki i dowody sprzedaży;Druki akcydensowe; 0;rachunki_i_dowody_sprzedazy;
+1;Pozostałe druki;Druki akcydensowe; 0;pozostale_druki;
+1;Karteczki i kostki;Artykuły papiernicze; 0;karteczki_i_kostki; C:/xampp/htdocs/crawler/img/karteczki_i_kostki.jpg
+1;Karteczki samoprzylepne;Karteczki i kostki; 0;karteczki_samoprzylepne;
+1;Kostki papierowe;Karteczki i kostki; 0;kostki_papierowe;
+1;Papier do faksu i rolki do kas;Artykuły papiernicze; 0;papier_do_faksu_i_rolki_do_kas; C:/xampp/htdocs/crawler/img/papier_do_faksu_i_rolki_do_kas.jpg
+1;Rolki do faksu;Papier do faksu i rolki do kas; 0;rolki_do_faksu;
+1;Rolki papierowe (offsetowe);Papier do faksu i rolki do kas; 0;rolki_papierowe_(offsetowe);
+1;Rolki samokopiujące (1+1);Papier do faksu i rolki do kas; 0;rolki_samokopiujace_(1+1);
+1;Rolki termiczne;Papier do faksu i rolki do kas; 0;rolki_termiczne;
+1;Papier biurowy;Artykuły papiernicze; 0;papier_biurowy; C:/xampp/htdocs/crawler/img/papier_biurowy.jpg
+1;Papier kancelaryjny;Papier biurowy; 0;papier_kancelaryjny;
+1;Papier komputerowy;Papier biurowy; 0;papier_komputerowy;
+1;Papier ksero biały;Papier biurowy; 0;papier_ksero_bialy;
+1;Papier ksero kolorowy;Papier biurowy; 0;papier_ksero_kolorowy;
+1;Papier specjalistyczny;Artykuły papiernicze; 0;papier_specjalistyczny; C:/xampp/htdocs/crawler/img/papier_specjalistyczny.jpg
+1;Papier do plotera;Papier specjalistyczny; 0;papier_do_plotera;
+1;Papier fotograficzny;Papier specjalistyczny; 0;papier_fotograficzny;
+1;Papier samoprzylepny;Papier specjalistyczny; 0;papier_samoprzylepny;
+1;Papier satynowany;Papier specjalistyczny; 0;papier_satynowany;
+1;Papier wizytówkowy;Papier specjalistyczny; 0;papier_wizytowkowy;
+1;Artykuły kreślarskie;Artykuły piśmiennicze; 0;artykuly_kreslarskie; C:/xampp/htdocs/crawler/img/artykuly_kreslarskie.jpg
+1;Gumki;Artykuły kreślarskie; 0;gumki;
+1;Linijki i ekierki;Artykuły kreślarskie; 0;linijki_i_ekierki;
+1;Rapidografy;Artykuły kreślarskie; 0;rapidografy;
+1;Tusze kreślarskie;Artykuły kreślarskie; 0;tusze_kreslarskie;
+1;Cienkopisy i zakreślacze;Artykuły piśmiennicze; 0;cienkopisy_i_zakreslacze; C:/xampp/htdocs/crawler/img/cienkopisy_i_zakreslacze.jpg
+1;Cienkopisy;Cienkopisy i zakreślacze; 0;cienkopisy;
+1;Cienkopisy kulkowe;Cienkopisy i zakreślacze; 0;cienkopisy_kulkowe;
+1;Zakreślacze;Cienkopisy i zakreślacze; 0;zakreslacze;
+1;Długopisy;Artykuły piśmiennicze; 0;dlugopisy; C:/xampp/htdocs/crawler/img/dlugopisy.jpg
+1;Długopisy automatyczne;Długopisy; 0;dlugopisy_automatyczne;
+1;Długopisy na sprężynce;Długopisy; 0;dlugopisy_na_sprezynce;
+1;Długopisy olejowe;Długopisy; 0;dlugopisy_olejowe;
+1;Długopisy żelowe;Długopisy; 0;dlugopisy_zelowe;
+1;Wkłady do długopisów;Długopisy; 0;wklady_do_dlugopisow;
+1;Ekskluzywne przybory do pisania;Artykuły piśmiennicze; 0;ekskluzywne_przybory_do_pisania; C:/xampp/htdocs/crawler/img/ekskluzywne_przybory_do_pisania.jpg
+1;Atramenty i naboje do piór;Ekskluzywne przybory do pisania; 0;atramenty_i_naboje_do_pior;
+1;Długopisy ekskluzywne;Ekskluzywne przybory do pisania; 0;dlugopisy_ekskluzywne;
+1;Pióra wieczne;Ekskluzywne przybory do pisania; 0;piora_wieczne;
+1;Korektory;Artykuły piśmiennicze; 0;korektory; C:/xampp/htdocs/crawler/img/korektory.jpg
+1;Korektory w pisaku;Korektory; 0;korektory_w_pisaku;
+1;Korektory w płynie;Korektory; 0;korektory_w_plynie;
+1;Korektory w taśmie;Korektory; 0;korektory_w_tasmie;
+1;Markery i foliopisy;Artykuły piśmiennicze; 0;markery_i_foliopisy; C:/xampp/htdocs/crawler/img/markery_i_foliopisy.jpg
+1;Foliopisy;Markery i foliopisy; 0;foliopisy;
+1;Markery do CD DVD;Markery i foliopisy; 0;markery_do_cd_dvd;
+1;Markery olejowe;Markery i foliopisy; 0;markery_olejowe;
+1;Markery permanentne;Markery i foliopisy; 0;markery_permanentne;
+1;Markery specjalistyczne;Markery i foliopisy; 0;markery_specjalistyczne;
+1;Markery suchościeralne;Markery i foliopisy; 0;markery_suchoscieralne;
+1;Ołówki, grafity i węgiel;Artykuły piśmiennicze; 0;olowki_grafity_i_wegiel; C:/xampp/htdocs/crawler/img/olowki_grafity_i_wegiel.jpg
+1;Grafity i węgiel;Ołówki, grafity i węgiel; 0;grafity_i_wegiel;
+1;Ołówki automatyczne;Ołówki, grafity i węgiel; 0;olowki_automatyczne;
+1;Ołówki zwykłe;Ołówki, grafity i węgiel; 0;olowki_zwykle;
+1;Temperówki;Ołówki, grafity i węgiel; 0;temperowki;
+1;Pióra;Artykuły piśmiennicze; 0;piora; C:/xampp/htdocs/crawler/img/piora.jpg
+1;Pióra kulkowe;Pióra; 0;piora_kulkowe;
+1;Wkłady do piór kulkowych;Pióra; 0;wklady_do_pior_kulkowych;
+1;KOLEKCJE;Artykuły szkolne; 0;kolekcje; C:/xampp/htdocs/crawler/img/kolekcje.jpg
+1;Minionki;KOLEKCJE; 0;minionki;
+1;Bambino;KOLEKCJE; 0;bambino;
+1;Zobacz wszystkie;KOLEKCJE; 0;zobacz_wszystkie;
+1;Artykuły kreatywne;Artykuły szkolne; 0;artykuly_kreatywne; C:/xampp/htdocs/crawler/img/artykuly_kreatywne.jpg
+1;Brokaty;Artykuły kreatywne; 0;brokaty;
+1;Cekiny;Artykuły kreatywne; 0;cekiny;
+1;Druciki i sznurki;Artykuły kreatywne; 0;druciki_i_sznurki;
+1;Dziurkacze ozdobne;Artykuły kreatywne; 0;dziurkacze_ozdobne;
+1;Filce, pianki, taśmy;Artykuły kreatywne; 0;filce_pianki_tasmy;
+1;Ruchome oczka;Artykuły kreatywne; 0;ruchome_oczka;
+1;Zestawy kreatywne ;Artykuły kreatywne; 0;zestawy_kreatywne_;
+1;Artykuły kreślarskie;Artykuły szkolne; 0;artykuly_kreslarskie; C:/xampp/htdocs/crawler/img/artykuly_kreslarskie.jpg
+1;Bloki milimetrowe;Artykuły kreślarskie; 0;bloki_milimetrowe;
+1;Bloki techniczne;Artykuły kreślarskie; 0;bloki_techniczne;
+1;Cyrkle;Artykuły kreślarskie; 0;cyrkle;
+1;Gumki;Artykuły kreślarskie; 0;gumki;
+1;Linijki i ekierki;Artykuły kreślarskie; 0;linijki_i_ekierki;
+1;Temperówki;Artykuły kreślarskie; 0;temperowki;
+1;Kredki i pisaki;Artykuły szkolne; 0;kredki_i_pisaki; C:/xampp/htdocs/crawler/img/kredki_i_pisaki.jpg
+1;Kredki;Kredki i pisaki; 0;kredki;
+1;Pastele;Kredki i pisaki; 0;pastele;
+1;Pisaki;Kredki i pisaki; 0;pisaki;
+1;Artykuły plastyczne;Artykuły szkolne; 0;artykuly_plastyczne; C:/xampp/htdocs/crawler/img/artykuly_plastyczne.jpg
+1;Akcesoria plastyczne;Artykuły plastyczne; 0;akcesoria_plastyczne;
+1;Bloki rysunkowe;Artykuły plastyczne; 0;bloki_rysunkowe;
+1;Farby szkolne;Artykuły plastyczne; 0;farby_szkolne;
+1;Kartony kolorowe;Artykuły plastyczne; 0;kartony_kolorowe;
+1;Kleje szkolne;Artykuły plastyczne; 0;kleje_szkolne;
+1;Masy plastyczne;Artykuły plastyczne; 0;masy_plastyczne;
+1;Nożyczki szkolne;Artykuły plastyczne; 0;nozyczki_szkolne;
+1;Papiery kolorowe i bibuły;Artykuły plastyczne; 0;papiery_kolorowe_i_bibuly;
+1;Pędzle;Artykuły plastyczne; 0;pedzle;
+1;Plasteliny i modeliny;Artykuły plastyczne; 0;plasteliny_i_modeliny;
+1;Plecaki i tornistry;Artykuły szkolne; 0;plecaki_i_tornistry; C:/xampp/htdocs/crawler/img/plecaki_i_tornistry.jpg
+1;Zestawy;Plecaki i tornistry; 0;zestawy;
+1;Plecaki;Plecaki i tornistry; 0;plecaki;
+1;Plecaki na kółkach;Plecaki i tornistry; 0;plecaki_na_kolkach;
+1;Saszetki i nerki;Plecaki i tornistry; 0;saszetki_i_nerki;
+1;Torby na ramię;Plecaki i tornistry; 0;torby_na_ramie;
+1;Tornistry;Plecaki i tornistry; 0;tornistry;
+1;Worki na obuwie;Plecaki i tornistry; 0;worki_na_obuwie;
+1;Piórniki i organizery;Artykuły szkolne; 0;piorniki_i_organizery; C:/xampp/htdocs/crawler/img/piorniki_i_organizery.jpg
+1;Piórniki;Piórniki i organizery; 0;piorniki;
+1;Pojemniki na długopisy;Piórniki i organizery; 0;pojemniki_na_dlugopisy;
+1;Teczki szkolne;Artykuły szkolne; 0;teczki_szkolne; C:/xampp/htdocs/crawler/img/teczki_szkolne.jpg
+1;Teczki z gumką;Teczki szkolne; 0;teczki_z_gumka;
+1;Teczki z rączką;Teczki szkolne; 0;teczki_z_raczka;
+1;Przybory do pisania;Artykuły szkolne; 0;przybory_do_pisania; C:/xampp/htdocs/crawler/img/przybory_do_pisania.jpg
+1;Cienkopisy szkolne;Przybory do pisania; 0;cienkopisy_szkolne;
+1;Długopisy szkolne;Przybory do pisania; 0;dlugopisy_szkolne;
+1;Korektory szkolne;Przybory do pisania; 0;korektory_szkolne;
+1;Ołówki szkolne;Przybory do pisania; 0;olowki_szkolne;
+1;Zeszyty i segregatory;Artykuły szkolne; 0;zeszyty_i_segregatory; C:/xampp/htdocs/crawler/img/zeszyty_i_segregatory.jpg
+1;Dzienniczki ucznia;Zeszyty i segregatory; 0;dzienniczki_ucznia;
+1;Notesy szkolne;Zeszyty i segregatory; 0;notesy_szkolne;
+1;Okładki i naklejki;Zeszyty i segregatory; 0;okladki_i_naklejki;
+1;Segregatory szkolne;Zeszyty i segregatory; 0;segregatory_szkolne;
+1;Wkłady do segregatora;Zeszyty i segregatory; 0;wklady_do_segregatora;
+1;Zeszyty szkolne;Zeszyty i segregatory; 0;zeszyty_szkolne;
+1;Pozostałe artykuły;Artykuły szkolne; 0;pozostale_artykuly; C:/xampp/htdocs/crawler/img/pozostale_artykuly.jpg
+1;Bidony i śniadaniówki;Pozostałe artykuły; 0;bidony_i_sniadaniowki;
+1;Globusy;Pozostałe artykuły; 0;globusy;
+1;Kredy szkolne;Pozostałe artykuły; 0;kredy_szkolne;
+1;Plany lekcji;Pozostałe artykuły; 0;plany_lekcji;
+1;Podkładki na biurko;Pozostałe artykuły; 0;podkladki_na_biurko;
+1;Pozostałe;Pozostałe artykuły; 0;pozostale;
+1;Kawa i herbata;Artykuły spożywcze; 0;kawa_i_herbata; C:/xampp/htdocs/crawler/img/kawa_i_herbata.jpg
+1;Kawa;Kawa i herbata; 0;kawa;
+1;Herbata;Kawa i herbata; 0;herbata;
+1;Cukier;Kawa i herbata; 0;cukier;
+1;Mleko i śmietanki;Kawa i herbata; 0;mleko_i_smietanki;
+1;Napoje chłodzące;Artykuły spożywcze; 0;napoje_chlodzace; C:/xampp/htdocs/crawler/img/napoje_chlodzace.jpg
+1;Napoje;Napoje chłodzące; 0;napoje;
+1;Soki;Napoje chłodzące; 0;soki;
+1;Wody mineralne;Napoje chłodzące; 0;wody_mineralne;
+1;Słodycze;Artykuły spożywcze; 0;slodycze; C:/xampp/htdocs/crawler/img/slodycze.jpg
+1;Ciastka;Słodycze; 0;ciastka;
+1;Akcesoria do komputera;Akcesoria komputerowe; 0;akcesoria_do_komputera; C:/xampp/htdocs/crawler/img/akcesoria_do_komputera.jpg
+1;Filtry prywatyzujące;Akcesoria do komputera; 0;filtry_prywatyzujace;
+1;Klawiatury i myszki ;Akcesoria do komputera; 0;klawiatury_i_myszki_;
+1;Podkładki pod myszki i klawiatury;Akcesoria do komputera; 0;podkladki_pod_myszki_i_klawiatury;
+1;Podstawy pod komputery i laptopy;Akcesoria do komputera; 0;podstawy_pod_komputery_i_laptopy;
+1;Torby i plecaki na laptopy;Akcesoria do komputera; 0;torby_i_plecaki_na_laptopy;
+1;Akcesoria mobilne;Akcesoria do komputera; 0;akcesoria_mobilne;
+1;Akcesoria do telefonu;Akcesoria komputerowe; 0;akcesoria_do_telefonu; C:/xampp/htdocs/crawler/img/akcesoria_do_telefonu.jpg
+1;Ładowarki;Akcesoria do telefonu; 0;ladowarki;
+1;Kable;Akcesoria do telefonu; 0;kable;
+1;Uchwyty;Akcesoria do telefonu; 0;uchwyty;
+1;Słuchawki;Akcesoria do telefonu; 0;sluchawki;
+1;Power Banki;Akcesoria do telefonu; 0;power_banki;
+1;Archiwizacja nośników danych;Akcesoria komputerowe; 0;archiwizacja_nosnikow_danych; C:/xampp/htdocs/crawler/img/archiwizacja_nosnikow_danych.jpg
+1;Koszulki na CD DVD;Archiwizacja nośników danych; 0;koszulki_na_cd_dvd;
+1;Markery do CD DVD;Archiwizacja nośników danych; 0;markery_do_cd_dvd;
+1;Pudełka i koperty na CD DVD;Archiwizacja nośników danych; 0;pudelka_i_koperty_na_cd_dvd;
+1;Stojaki na CD DVD;Archiwizacja nośników danych; 0;stojaki_na_cd_dvd;
+1;Nośniki danych;Akcesoria komputerowe; 0;nosniki_danych; C:/xampp/htdocs/crawler/img/nosniki_danych.jpg
+1;Pamięci przenośne;Nośniki danych; 0;pamieci_przenosne;
+1;Płyty CD DVD Blu-ray;Nośniki danych; 0;plyty_cd_dvd_blu-ray;
+1;Środki czystości;Akcesoria komputerowe; 0;srodki_czystosci; C:/xampp/htdocs/crawler/img/srodki_czystosci.jpg
+1;Chusteczki i ściereczki;Środki czystości; 0;chusteczki_i_sciereczki;
+1;Pianki do czyszczenia;Środki czystości; 0;pianki_do_czyszczenia;
+1;Sprężone powietrze;Środki czystości; 0;sprezone_powietrze;
+1;Koszulki i obwoluty;Organizacja dokumentów; 0;koszulki_i_obwoluty; C:/xampp/htdocs/crawler/img/koszulki_i_obwoluty.jpg
+1;Koszulki groszkowe;Koszulki i obwoluty; 0;koszulki_groszkowe;
+1;Koszulki krystaliczne;Koszulki i obwoluty; 0;koszulki_krystaliczne;
+1;Obwoluty;Koszulki i obwoluty; 0;obwoluty;
+1;Torebki z suwakiem;Koszulki i obwoluty; 0;torebki_z_suwakiem;
+1;Oprawa dokumentów;Organizacja dokumentów; 0;oprawa_dokumentow; C:/xampp/htdocs/crawler/img/oprawa_dokumentow.jpg
+1;Folie do laminacji;Oprawa dokumentów; 0;folie_do_laminacji;
+1;Grzbiety do bindowania;Oprawa dokumentów; 0;grzbiety_do_bindowania;
+1;Okładki do bindowania;Oprawa dokumentów; 0;okladki_do_bindowania;
+1;Okładki na dyplomy;Oprawa dokumentów; 0;okladki_na_dyplomy;
+1;Listwy wsuwane;Oprawa dokumentów; 0;listwy_wsuwane;
+1;Skoroszyty i wąsy do skoroszytów;Organizacja dokumentów; 0;skoroszyty_i_wasy_do_skoroszytow; C:/xampp/htdocs/crawler/img/skoroszyty_i_wasy_do_skoroszytow.jpg
+1;Skoroszyty kartonowe;Skoroszyty i wąsy do skoroszytów; 0;skoroszyty_kartonowe;
+1;Skoroszyty plastikowe;Skoroszyty i wąsy do skoroszytów; 0;skoroszyty_plastikowe;
+1;Wąsy i klipsy do skoroszytów;Skoroszyty i wąsy do skoroszytów; 0;wasy_i_klipsy_do_skoroszytow;
+1;Segregatory;Organizacja dokumentów; 0;segregatory; C:/xampp/htdocs/crawler/img/segregatory.jpg
+1;Etykiety na segregatory;Segregatory; 0;etykiety_na_segregatory;
+1;Przekładki do segregatorów;Segregatory; 0;przekladki_do_segregatorow;
+1;Segregatory 50 mm;Segregatory; 0;segregatory_50_mm;
+1;Segregatory 75 mm;Segregatory; 0;segregatory_75_mm;
+1;Segregatory na ringi;Segregatory; 0;segregatory_na_ringi;
+1;Sortowanie dokumentów;Organizacja dokumentów; 0;sortowanie_dokumentow; C:/xampp/htdocs/crawler/img/sortowanie_dokumentow.jpg
+1;Clipboardy;Sortowanie dokumentów; 0;clipboardy;
+1;Podstawki na dokumenty;Sortowanie dokumentów; 0;podstawki_na_dokumenty;
+1;Pojemniki na dokumenty;Sortowanie dokumentów; 0;pojemniki_na_dokumenty;
+1;Szuflady na dokumenty;Sortowanie dokumentów; 0;szuflady_na_dokumenty;
+1;Zakładki indeksujące;Sortowanie dokumentów; 0;zakladki_indeksujace;
+1;Teczki;Organizacja dokumentów; 0;teczki; C:/xampp/htdocs/crawler/img/teczki.jpg
+1;Teczki papierowe;Teczki; 0;teczki_papierowe;
+1;Teczki do akt osobowych;Teczki; 0;teczki_do_akt_osobowych;
+1;Teczki do podpisu;Teczki; 0;teczki_do_podpisu;
+1;Teczki kopertowe;Teczki; 0;teczki_kopertowe;
+1;Teczki plastikowe;Teczki; 0;teczki_plastikowe;
+1;Teczki zawieszane;Teczki; 0;teczki_zawieszane;
+1;Teczki z przegródkami;Teczki; 0;teczki_z_przegrodkami;
+1;Teczki skrzydłowe;Teczki; 0;teczki_skrzydlowe;
+1;Teczki konferencyjne i aktówki;Teczki; 0;teczki_konferencyjne_i_aktowki;
+1;Teczki ofertowe;Teczki; 0;teczki_ofertowe;
+1;Pozostałe;Organizacja dokumentów; 0;pozostale; C:/xampp/htdocs/crawler/img/pozostale.jpg
+1;Dzienniki i kroniki;Pozostałe; 0;dzienniki_i_kroniki;
+1;Litery i cyfry samoprzylepne;Pozostałe; 0;litery_i_cyfry_samoprzylepne;
+1;Listwy i kieszenie samoprzylepne;Pozostałe; 0;listwy_i_kieszenie_samoprzylepne;
+1;Etykiety samoprzylepne;Pakowanie i wysyłka; 0;etykiety_samoprzylepne; C:/xampp/htdocs/crawler/img/etykiety_samoprzylepne.jpg
+1;Etykiety specjalistyczne;Etykiety samoprzylepne; 0;etykiety_specjalistyczne;
+1;Etykiety samoprzylepne 38-52,5 mm;Etykiety samoprzylepne; 0;etykiety_samoprzylepne_38-52,5_mm;
+1;Etykiety samoprzylepne 63,5-99,10 mm;Etykiety samoprzylepne; 0;etykiety_samoprzylepne_63,5-99,10_mm;
+1;Etykiety samoprzylepne 105-210 mm;Etykiety samoprzylepne; 0;etykiety_samoprzylepne_105-210_mm;
+1;Etykiety samoprzylepne cenowe;Etykiety samoprzylepne; 0;etykiety_samoprzylepne_cenowe;
+1;Etykiety samoprzylepne inne rozmiary;Etykiety samoprzylepne; 0;etykiety_samoprzylepne_inne_rozmiary;
+1;Koperty;Pakowanie i wysyłka; 0;koperty; C:/xampp/htdocs/crawler/img/koperty.jpg
+1;Koperty bąbelkowe;Koperty; 0;koperty_babelkowe;
+1;Koperty bezpieczne;Koperty; 0;koperty_bezpieczne;
+1;Koperty kurierskie;Koperty; 0;koperty_kurierskie;
+1;Koperty z rozszerzanymi bokami;Koperty; 0;koperty_z_rozszerzanymi_bokami;
+1;Koperty standardowe;Koperty; 0;koperty_standardowe;
+1;Taśmy pakowe i folie stretch;Pakowanie i wysyłka; 0;tasmy_pakowe_i_folie_stretch; C:/xampp/htdocs/crawler/img/tasmy_pakowe_i_folie_stretch.jpg
+1;Folie stretch;Taśmy pakowe i folie stretch; 0;folie_stretch;
+1;Taśmy pakowe;Taśmy pakowe i folie stretch; 0;tasmy_pakowe;
+1;Podajniki do taśm;Taśmy pakowe i folie stretch; 0;podajniki_do_tasm;
+1;Pozostałe;Pakowanie i wysyłka; 0;pozostale; C:/xampp/htdocs/crawler/img/pozostale.jpg
+1;Papier pakowy;Pozostałe; 0;papier_pakowy;
+1;Sznurki i nici;Pozostałe; 0;sznurki_i_nici;
+1;Woreczki foliowe;Pozostałe; 0;woreczki_foliowe;
+1;Torby papierowe;Pozostałe; 0;torby_papierowe;
+1;Akcesoria do tablic;Tablice i flipcharty; 0;akcesoria_do_tablic; C:/xampp/htdocs/crawler/img/akcesoria_do_tablic.jpg
+1;Akcesoria do tablic korkowych;Akcesoria do tablic; 0;akcesoria_do_tablic_korkowych;
+1;Akcesoria do tablic suchościeralnych;Akcesoria do tablic; 0;akcesoria_do_tablic_suchoscieralnych;
+1;Magnesy do tablic;Akcesoria do tablic; 0;magnesy_do_tablic;
+1;Antyramy, gabloty i planery;Tablice i flipcharty; 0;antyramy_gabloty_i_planery; C:/xampp/htdocs/crawler/img/antyramy_gabloty_i_planery.jpg
+1;Antyramy;Antyramy, gabloty i planery; 0;antyramy;
+1;Gabloty;Antyramy, gabloty i planery; 0;gabloty;
+1;Planery;Antyramy, gabloty i planery; 0;planery;
+1;Flipcharty i akcesoria;Tablice i flipcharty; 0;flipcharty_i_akcesoria; C:/xampp/htdocs/crawler/img/flipcharty_i_akcesoria.jpg
+1;Bloki do flipchartów;Flipcharty i akcesoria; 0;bloki_do_flipchartow;
+1;Flipcharty;Flipcharty i akcesoria; 0;flipcharty;
+1;Sprzęt do prezentacji;Tablice i flipcharty; 0;sprzet_do_prezentacji; C:/xampp/htdocs/crawler/img/sprzet_do_prezentacji.jpg
+1;Ekrany projekcyjne;Sprzęt do prezentacji; 0;ekrany_projekcyjne;
+1;Rzutniki;Sprzęt do prezentacji; 0;rzutniki;
+1;Wskaźniki i piloty do prezentacji;Sprzęt do prezentacji; 0;wskazniki_i_piloty_do_prezentacji;
+1;Tablice;Tablice i flipcharty; 0;tablice; C:/xampp/htdocs/crawler/img/tablice.jpg
+1;Tablice korkowe;Tablice; 0;tablice_korkowe;
+1;Tablice magnetyczne i suchościeralne;Tablice; 0;tablice_magnetyczne_i_suchoscieralne;
+1;Pozostałe;Tablice i flipcharty; 0;pozostale; C:/xampp/htdocs/crawler/img/pozostale.jpg
+1;Identyfikatory i holdery;Pozostałe; 0;identyfikatory_i_holdery;
+1;Półki, panele i stojaki reklamowe;Pozostałe; 0;polki_panele_i_stojaki_reklamowe;
+1;Artykuły higienicznie;Chemia gospodarcza; 0;artykuly_higienicznie; C:/xampp/htdocs/crawler/img/artykuly_higienicznie.jpg
+1;Chusteczki kosmetyczne;Artykuły higienicznie; 0;chusteczki_kosmetyczne;
+1;Mydła;Artykuły higienicznie; 0;mydla;
+1;Papiery toaletowe;Artykuły higienicznie; 0;papiery_toaletowe;
+1;Pasty BHP;Artykuły higienicznie; 0;pasty_bhp;
+1;Ręczniki papierowe;Artykuły higienicznie; 0;reczniki_papierowe;
+1;Artykuły jednorazowe;Chemia gospodarcza; 0;artykuly_jednorazowe; C:/xampp/htdocs/crawler/img/artykuly_jednorazowe.jpg
+1;Folie spożywcze i aluminiowe;Artykuły jednorazowe; 0;folie_spozywcze_i_aluminiowe;
+1;Naczynia jednorazowe;Artykuły jednorazowe; 0;naczynia_jednorazowe;
+1;Woreczki foliowe;Artykuły jednorazowe; 0;woreczki_foliowe;
+1;Do kuchni;Chemia gospodarcza; 0;do_kuchni; C:/xampp/htdocs/crawler/img/do_kuchni.jpg
+1;Artykuły do zmywarek;Do kuchni; 0;artykuly_do_zmywarek;
+1;Płyny do mycia naczyń;Do kuchni; 0;plyny_do_mycia_naczyn;
+1;Ściereczki i zmywaki;Do kuchni; 0;sciereczki_i_zmywaki;
+1;Środki czystości;Do kuchni; 0;srodki_czystosci;
+1;Do łazienki;Chemia gospodarcza; 0;do_lazienki; C:/xampp/htdocs/crawler/img/do_lazienki.jpg
+1;Kostki do WC;Do łazienki; 0;kostki_do_wc;
+1;Płyny do WC;Do łazienki; 0;plyny_do_wc;
+1;Środki czystości;Do łazienki; 0;srodki_czystosci;
+1;Sprzątanie;Chemia gospodarcza; 0;sprzatanie; C:/xampp/htdocs/crawler/img/sprzatanie.jpg
+1;Kije do mopa/szczotki;Sprzątanie; 0;kije_do_mopa/szczotki;
+1;Mopy;Sprzątanie; 0;mopy;
+1;Odświeżacze;Sprzątanie; 0;odswiezacze;
+1;Płyny do mycia podłóg;Sprzątanie; 0;plyny_do_mycia_podlog;
+1;Płyny do mycia szyb;Sprzątanie; 0;plyny_do_mycia_szyb;
+1;Rękawice;Sprzątanie; 0;rekawice;
+1;Szczotki;Sprzątanie; 0;szczotki;
+1;Środki do mebli;Sprzątanie; 0;srodki_do_mebli;
+1;Worki na śmieci;Sprzątanie; 0;worki_na_smieci;
+1;Bębny i głowice;Tusze i tonery; 0;bebny_i_glowice; C:/xampp/htdocs/crawler/img/bebny_i_glowice.jpg
+1;Bębny do drukarek;Bębny i głowice; 0;bebny_do_drukarek;
+1;Głowice do drukarek;Bębny i głowice; 0;glowice_do_drukarek;
+1;Taśmy do drukarek igłowych;Tusze i tonery; 0;tasmy_do_drukarek_iglowych; C:/xampp/htdocs/crawler/img/tasmy_do_drukarek_iglowych.jpg
+1;Taśmy oryginalne;Taśmy do drukarek igłowych; 0;tasmy_oryginalne;
+1;Taśmy zamienniki;Taśmy do drukarek igłowych; 0;tasmy_zamienniki;
+1;Tonery;Tusze i tonery; 0;tonery; C:/xampp/htdocs/crawler/img/tonery.jpg
+1;Tonery oryginalne;Tonery; 0;tonery_oryginalne;
+1;Tonery zamienniki;Tonery; 0;tonery_zamienniki;
+1;Tusze;Tusze i tonery; 0;tusze; C:/xampp/htdocs/crawler/img/tusze.jpg
+1;Tusze oryginalne;Tusze; 0;tusze_oryginalne;
+1;Tusze zamienniki;Tusze; 0;tusze_zamienniki;
+1;Folie do faksu;Tusze i tonery; 0;folie_do_faksu; C:/xampp/htdocs/crawler/img/folie_do_faksu.jpg
+1;Folie do faksów oryginalne;Folie do faksu; 0;folie_do_faksow_oryginalne;
+1;Folie do faksów zamienniki;Folie do faksu; 0;folie_do_faksow_zamienniki;
+1;Bindownice;Urządzenia biurowe; 0;bindownice; C:/xampp/htdocs/crawler/img/bindownice.jpg
+1;Grzbiety do bindowania;Bindownice; 0;grzbiety_do_bindowania;
+1;Bindownice drutowe;Bindownice; 0;bindownice_drutowe;
+1;Bindownice grzbietowe;Bindownice; 0;bindownice_grzbietowe;
+1;Bindownice termiczne;Bindownice; 0;bindownice_termiczne;
+1;Okładki do bindowania;Bindownice; 0;okladki_do_bindowania;
+1;Drukarki etykiet;Urządzenia biurowe; 0;drukarki_etykiet; C:/xampp/htdocs/crawler/img/drukarki_etykiet.jpg
+1;Drukarki etykiet;Drukarki etykiet; 0;drukarki_etykiet;
+1;Tasiemki do drukarek etykiet;Drukarki etykiet; 0;tasiemki_do_drukarek_etykiet;
+1;Gilotyny i trymery;Urządzenia biurowe; 0;gilotyny_i_trymery; C:/xampp/htdocs/crawler/img/gilotyny_i_trymery.jpg
+1;Gilotyny;Gilotyny i trymery; 0;gilotyny;
+1;Trymery;Gilotyny i trymery; 0;trymery;
+1;Kalkulatory;Urządzenia biurowe; 0;kalkulatory; C:/xampp/htdocs/crawler/img/kalkulatory.jpg
+1;Kalkulatory biurowe;Kalkulatory; 0;kalkulatory_biurowe;
+1;Kalkulatory drukujące;Kalkulatory; 0;kalkulatory_drukujace;
+1;Kalkulatory kieszonkowe;Kalkulatory; 0;kalkulatory_kieszonkowe;
+1;Kalkulatory naukowe;Kalkulatory; 0;kalkulatory_naukowe;
+1;Laminatory;Urządzenia biurowe; 0;laminatory; C:/xampp/htdocs/crawler/img/laminatory.jpg
+1;Akcesoria do laminatorów;Laminatory; 0;akcesoria_do_laminatorow;
+1;Folie do laminacji;Laminatory; 0;folie_do_laminacji;
+1;Laminatory;Laminatory; 0;laminatory;
+1;Niszczarki i akcesoria;Urządzenia biurowe; 0;niszczarki_i_akcesoria; C:/xampp/htdocs/crawler/img/niszczarki_i_akcesoria.jpg
+1;Niszczarki biurowe;Niszczarki i akcesoria; 0;niszczarki_biurowe;
+1;Akcesoria do niszczarek;Niszczarki i akcesoria; 0;akcesoria_do_niszczarek;
+1;Zasilanie;Urządzenia biurowe; 0;zasilanie; C:/xampp/htdocs/crawler/img/zasilanie.jpg
+1;Akumulatorki;Zasilanie; 0;akumulatorki;
+1;Baterie;Zasilanie; 0;baterie;
+1;Listwy zasilające;Zasilanie; 0;listwy_zasilajace;
+1;Pozostałe;Urządzenia biurowe; 0;pozostale; C:/xampp/htdocs/crawler/img/pozostale.jpg
+1;Czajniki;Pozostałe; 0;czajniki;
+1;Metkownice;Pozostałe; 0;metkownice;
+1;Oczyszczacze powietrza;Pozostałe; 0;oczyszczacze_powietrza;
+1;Wagi;Pozostałe; 0;wagi;
+1;Zegary;Pozostałe; 0;zegary;
+1;Żarówki;Pozostałe; 0;zarowki;
+1;Gry;Dla dzieci; 0;gry; C:/xampp/htdocs/crawler/img/gry.jpg
+1;Karty do gry;Dla dzieci; 0;karty_do_gry; C:/xampp/htdocs/crawler/img/karty_do_gry.jpg
+1;Puzzle;Dla dzieci; 0;puzzle; C:/xampp/htdocs/crawler/img/puzzle.jpg
+1;Książeczki, malowanki;Dla dzieci; 0;ksiazeczki_malowanki; C:/xampp/htdocs/crawler/img/ksiazeczki_malowanki.jpg
+1;Globusy;Dla dzieci; 0;globusy; C:/xampp/htdocs/crawler/img/globusy.jpg
+1;Plecaki i tornistry;Dla dzieci; 0;plecaki_i_tornistry; C:/xampp/htdocs/crawler/img/plecaki_i_tornistry.jpg
+1;Zapobiegaj bólom pleców i nóg;Ergonomia w biurze; 0;zapobiegaj_bolom_plecow_i_nog; C:/xampp/htdocs/crawler/img/zapobiegaj_bolom_plecow_i_nog.jpg
+1;Zapobiegaj bólom nadgarstków;Ergonomia w biurze; 0;zapobiegaj_bolom_nadgarstkow; C:/xampp/htdocs/crawler/img/zapobiegaj_bolom_nadgarstkow.jpg
+1;Zapobiegaj bólom karku i szyi;Ergonomia w biurze; 0;zapobiegaj_bolom_karku_i_szyi; C:/xampp/htdocs/crawler/img/zapobiegaj_bolom_karku_i_szyi.jpg
+1;Organizacja miejsca pracy;Ergonomia w biurze; 0;organizacja_miejsca_pracy; C:/xampp/htdocs/crawler/img/organizacja_miejsca_pracy.jpg
